@@ -4,13 +4,13 @@
 
 
 {
-         "name": "47. SG-DtacNoPro-VIP-3",
-         "url": "https://raw.githubusercontent.com/KhantWaiTun/Update-/main/Dtac%202.ovpn"
+         "name": "47. SG-Dtac",
+         "url": "https://raw.githubusercontent.com/KhantWaiTun/Update-/main/Sg-server-Dtac.ovpn"
       },
 
 {
-         "name": "48. Th-DtacNoPro-VIP-4",
-         "url": "https://raw.githubusercontent.com/KhantWaiTun/Update-/main/%F0%9F%87%B9%F0%9F%87%ADThai%20Server(Dtac).ovpn"
+         "name": "48. Th-Dtac",
+         "url": "https://raw.githubusercontent.com/KhantWaiTun/Update-/main/Th-server-Dtac.ovpn"
       }
 
 

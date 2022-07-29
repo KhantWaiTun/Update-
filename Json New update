@@ -4,12 +4,12 @@
 
 
 {
-         "name": "1. SG-Dtac-VIP",
+         "name": "1. SG-DtacNoPro-VIP",
          "url": "https://raw.githubusercontent.com/KhantWaiTun/Update-/main/Sg-server-Dtac.ovpn"
       },
 
 {
-         "name": "2. TH-Dtac-VIP",
+         "name": "2. TH-DtacNoPro-VIP",
          "url": "https://raw.githubusercontent.com/KhantWaiTun/Update-/main/Th-server-Dtac.ovpn"
       }
 
